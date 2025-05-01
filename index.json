@@ -1,34 +1,30 @@
 {
-  "update_files": [
+  "update_prefix": "update_files",
+  "update_files": [],
+  "base_files": [
+    "f3c786f5a584830dd613d083a94cbeca fsgame.ltx",
+    "ec773e72c79588b3fcaf5c4ce4e6ee8d gamedata.db_base_configs_1",
+    "06055757b04f69582dfbe0bf10618b40 gamedata.db_base_levels_1",
+    "5a93d48944ada4ae079701e24f535e93 gamedata.db_base_levels_2",
+    "b0325c9bc1537c2201e878e9a87a4e2a gamedata.db_base_meshes_1",
+    "29f4fd76e2d14d823d6840ed254cca12 gamedata.db_base_sounds_1",
+    "27729b73a8c4ad15ff1f58ac3cc67692 gamedata.db_base_textures_1",
+    "c1c535829a082f7d326233a5e7ab2859 gamedata.db_base_textures_2",
+    "4ce0ce1a865e1c43e9f060f74de2c970 gamedata.db_base_textures_3",
+    "1184be380eca4239683a8c458d6bb2d9 gamedata.db_base_textures_4",
+    "1c82b74c86d91e7b767c5394a265c270 gamedata.db_base_textures_5",
+    "d8a0510c7a0462140e7c52c6c2fd331f gamedata.db_base_textures_6",
     "a5e4b3ff51cf5b7926d9651908feb666 bin_x64/dbghelp.dll",
     "5882c37b79bae47a0d090006564edb22 bin_x64/discord-rpc.dll",
     "62ee091921103f58a9c0ba43b8d0dd07 bin_x64/ffx_fsr2_api_dx11_x64.dll",
     "60e1dc79f28968e8ef6521e5df0d0e35 bin_x64/ffx_fsr2_api_x64.dll",
-    "b069a35349f6a86a5c623b9f9cb72733 bin_x64/LuaJIT.dll",
-    "d84cce7f3aa945ab790ec9ad22740d5f bin_x64/LuaJIT.pdb",
+    "219894867031a48d063fed1f801b13b9 bin_x64/LuaJIT.dll",
+    "7ad5d698fe920b31fa0de44388de13df bin_x64/LuaJIT.pdb",
     "12627ab9ee39858b6a28039a32d1b7c2 bin_x64/nvngx_dlss.dll",
     "fafb5ee033e42da547e9f9474bed053b bin_x64/OpenAL32.dll",
     "8431d234ad33e0c03f363bedf4e9b9cd bin_x64/soft_oal.dll",
     "ae0232939dd6843b257f0175fac394a0 bin_x64/splash.png",
-    "1bef4cd4d0b7ad53de46c6f3149ba9c2 bin_x64/xrEngine.exe",
-    "b7939850e06f16217aace62a347a2c04 bin_x64/xrEngine.pdb",
-    "ef3fbfbe0edabd60f52f8247453a79cc bin_x64/_start_reference_copy.cmd",
-    "d4f11cc90b19eaf6af3c99d2cfaada1a bin_x64/xrCompress/xrCompress.bat",
-    "9f801bfbdb2901059089838cca372ddc bin_x64/xrCompress/xrCompress.exe",
-    "9aa7809fafbd749899c180e4f64c8ce2 bin_x64/xrCompress/xrCompress.pdb",
-    "df3941fcc0529bbfff5418b786645b4e bin_x64/xrCompress/xrCompress_Cfg.ltx",
-    "06e611f7b16f2167ac6701f7ba021012 bin_x64/xrCompress/xrCompress_Readme.txt"
-  ],
-  "base_files": [
-    "f3c786f5a584830dd613d083a94cbeca fsgame.ltx",
-    "135fc6d73e652f7e0f1c6e66d5de93ce gamedata.db_base_levels_1",
-    "757dbe5dc05610b08b7bf417f250ad8c gamedata.db_base_levels_2",
-    "61b779372280b4802dba39cc122c79f2 gamedata.db_base_meshes_1",
-    "c1433dcc0929e2b64ca4425e5ad80450 gamedata.db_base_sounds_1",
-    "2273e8bb39af9801ca395284ef8a213b gamedata.db_base_textures_1",
-    "77e8826ae4424e9cfbd9db664dda69d1 gamedata.db_base_textures_2",
-    "19cc8cfc1c3ab9f69d3681eda6eac181 gamedata.db_base_textures_3",
-    "e9123f086d8a1d61fadb0af6ced64398 gamedata.db_base_textures_4",
-    "fee037ccc2b0472bc9658957a7342ee4 gamedata.db_base_textures_5"
+    "1d1bcd69c6b24a9f3e85e3fa26997439 bin_x64/xrEngine.exe",
+    "d3e512fa65b14f24a71fa3fca4d81718 bin_x64/xrEngine.pdb"
   ]
 }
