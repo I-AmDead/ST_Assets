@@ -3,7 +3,7 @@
   "update_files": [],
   "base_files": [
     "f3c786f5a584830dd613d083a94cbeca fsgame.ltx",
-    "ec773e72c79588b3fcaf5c4ce4e6ee8d gamedata.db_base_configs_1",
+    "4b6f052ce654032573411536cd3e677d gamedata.db_base_configs_1",
     "06055757b04f69582dfbe0bf10618b40 gamedata.db_base_levels_1",
     "5a93d48944ada4ae079701e24f535e93 gamedata.db_base_levels_2",
     "7fe135c793daa4c17452dd15366981ce gamedata.db_base_meshes_1",
@@ -24,7 +24,7 @@
     "fafb5ee033e42da547e9f9474bed053b bin_x64/OpenAL32.dll",
     "8431d234ad33e0c03f363bedf4e9b9cd bin_x64/soft_oal.dll",
     "ae0232939dd6843b257f0175fac394a0 bin_x64/splash.png",
-    "1d1bcd69c6b24a9f3e85e3fa26997439 bin_x64/xrEngine.exe",
-    "d3e512fa65b14f24a71fa3fca4d81718 bin_x64/xrEngine.pdb"
+    "cba8d7b911f38d816a5c43123c6df8b7 bin_x64/xrEngine.exe",
+    "2359c1618012363a5c696cecd2c66af4 bin_x64/xrEngine.pdb"
   ]
 }
