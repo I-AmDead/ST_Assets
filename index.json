@@ -19,12 +19,12 @@
     "5882c37b79bae47a0d090006564edb22 bin_x64/discord-rpc.dll",
     "62ee091921103f58a9c0ba43b8d0dd07 bin_x64/ffx_fsr2_api_dx11_x64.dll",
     "60e1dc79f28968e8ef6521e5df0d0e35 bin_x64/ffx_fsr2_api_x64.dll",
-    "191ef53997a790aa67cca68a807e393d bin_x64/LuaJIT.dll",
-    "aefd1270262503026b9ba43233684533 bin_x64/LuaJIT.pdb",
+    "418b2c5205a9035d3672b96b049981ff bin_x64/LuaJIT.dll",
+    "e641effae43b323cbaf2af29d01a73d2 bin_x64/LuaJIT.pdb",
     "12627ab9ee39858b6a28039a32d1b7c2 bin_x64/nvngx_dlss.dll",
     "fafb5ee033e42da547e9f9474bed053b bin_x64/OpenAL32.dll",
     "ae0232939dd6843b257f0175fac394a0 bin_x64/splash.png",
-    "fa8a3aec00fbafb490a4e14e395b2b95 bin_x64/xrEngine.exe",
-    "8a22f851d37706c8b478b3e74ea157c6 bin_x64/xrEngine.pdb"
+    "73a3eca8cbbf003e75e36ea61886bb88 bin_x64/xrEngine.exe",
+    "ec31effea82e96fa14e67dd57f76d2a1 bin_x64/xrEngine.pdb"
   ]
 }
