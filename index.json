@@ -3,7 +3,7 @@
   "update_files": [],
   "base_files": [
     "f3c786f5a584830dd613d083a94cbeca fsgame.ltx",
-    "19749d55582eeaa0d2929f01ce56b323 gamedata.db_base_configs_1",
+    "8f011812ecbe387aefdded06fa6a5f8c gamedata.db_base_configs_1",
     "06055757b04f69582dfbe0bf10618b40 gamedata.db_base_levels_1",
     "5a93d48944ada4ae079701e24f535e93 gamedata.db_base_levels_2",
     "7fe135c793daa4c17452dd15366981ce gamedata.db_base_meshes_1",
@@ -14,17 +14,17 @@
     "1184be380eca4239683a8c458d6bb2d9 gamedata.db_base_textures_4",
     "1c82b74c86d91e7b767c5394a265c270 gamedata.db_base_textures_5",
     "d8a0510c7a0462140e7c52c6c2fd331f gamedata.db_base_textures_6",
-    "d4bf2c24940fe89ad1f9a2ffb4ea64e2 gamedata.db_cbt_patch_1",
+    "7bc08a2c3c8f5602bcf08b58329ce280 gamedata.db_cbt_patch_1",
     "a5e4b3ff51cf5b7926d9651908feb666 bin_x64/dbghelp.dll",
     "5882c37b79bae47a0d090006564edb22 bin_x64/discord-rpc.dll",
     "62ee091921103f58a9c0ba43b8d0dd07 bin_x64/ffx_fsr2_api_dx11_x64.dll",
     "60e1dc79f28968e8ef6521e5df0d0e35 bin_x64/ffx_fsr2_api_x64.dll",
-    "5ff6be978957f8cabb29049e69fe1de8 bin_x64/LuaJIT.dll",
-    "aa91f385b6b5cd5d183b59c7fda2ea8c bin_x64/LuaJIT.pdb",
+    "191ef53997a790aa67cca68a807e393d bin_x64/LuaJIT.dll",
+    "aefd1270262503026b9ba43233684533 bin_x64/LuaJIT.pdb",
     "12627ab9ee39858b6a28039a32d1b7c2 bin_x64/nvngx_dlss.dll",
     "fafb5ee033e42da547e9f9474bed053b bin_x64/OpenAL32.dll",
     "ae0232939dd6843b257f0175fac394a0 bin_x64/splash.png",
-    "47ce90471822a818de8f75dfd223ee6a bin_x64/xrEngine.exe",
-    "cdc2e6d3c53a27ce619af89373b1eb33 bin_x64/xrEngine.pdb"
+    "fa8a3aec00fbafb490a4e14e395b2b95 bin_x64/xrEngine.exe",
+    "8a22f851d37706c8b478b3e74ea157c6 bin_x64/xrEngine.pdb"
   ]
 }
