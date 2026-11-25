@@ -4,7 +4,17 @@
       "category": "Test",
       "title": "Test title",
       "summary": "Test description",
-      "imageUrl": "https://github.com/I-AmDead/ST_Assets/blob/main/image.png",
+      "content": "Test:\n• Test edit1\n• Test edit2",
+      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/news/news_1.png",
+      "url": "https://discord.gg/tQNPCEC469"
+    },
+
+    {
+      "category": "Test 2",
+      "title": "Test title 2",
+      "summary": "Test description 2",
+      "content": "Test:\n• Test edit1\n• Test edit2",
+      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/news/news_2.png",
       "url": "https://discord.gg/tQNPCEC469"
     }
   ]
