@@ -1,0 +1,112 @@
+{
+  "articles": [
+    {
+      "category": "Update",
+      "title": "Update of 15.12.2025",
+      "summary": "Fixed the VSSM, level transitions and stashes; added the ASH-12 and hand tessellation.",
+      "content": "• Fixed the VSSM position\n• Restored the Radar–Warehouses transition\n• Fixed Caesar’s stash locations\n• Added the ASH-12 assault rifle and Falke LE red dot sight\n• Removed the ADAR carbine and Kemper red dot sight\n• Moved the transition from Yantar to Agroprom earlier in the story\n• Added tessellation for hands"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 16.12.2025",
+      "summary": "Fixed crashes, camera collision and lighting; updated DLSS Transformer.",
+      "content": "• Fixed a crash related to the assault Abakan\n• Fixed camera collision\n• Fixed lighting after changing the shadow map size\n• Fixed settings reflection being disabled\n• Moved debugging features to Dev mode\n• Reduced lens zoom\n• Updated DLSS Transformer to version 310.4.0"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 17.12.2025",
+      "summary": "Fixed M32 spawning and TOZ collision, and updated lighting; added animations and dialogue.",
+      "content": "• Fixed M32 spawning\n• Fixed TOZ collision\n• Reduced hemi lighting\n• Added aiming start and end animations\n• Added dialogue about the baker after Sidorovich leaves for the Cordon"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 19.12.2025",
+      "summary": "Fixed aiming and sound; added a radial menu for the detector and pistol.",
+      "content": "• Fixed aiming with the VSSM and Prince’s AK-12\n• Fixed quest status sounds overlapping the protagonist’s gunfire\n• Fixed sector resets after loading a save in the same location\n• Added the option to draw the detector and pistol from the radial menu\n• Updated suppressed 9×18 pistol shot sounds"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 21.12.2025",
+      "summary": "Added in-game tutorials and alternative key bindings; fixed mutants, quests and saves.",
+      "content": "• Fixed auto-aim for some mutants: snorks, dogs and spiders\n• Fixed key names\n• Fixed the restrictor in Sviblov’s bloodsucker quest\n• Fixed corpse cleanup in Dark Valley involving the eighth stash map\n• Added alternative key bindings\n• Added an in-game tutorial module\n• Added a menu button linking to OGSR Org\n• Moved news to the bottom of the screen\n• Fixed aiming being retained when the player saved"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 24.12.2025",
+      "summary": "Added the G36 and emission shelters; fixed weapons, quests, stashes and interface.",
+      "content": "• Fixed the MP-153 magazine ammo count\n• Fixed food and medicine animations getting stuck in some cases\n• Adjusted Lukash’s position after returning to base\n• Fixed the map icon and guide part icons\n• Fixed artifact crafting\n• Fixed scoped aiming with the VSSM\n• Fixed some key bindings missing on first launch\n• Fixed a crash caused by the marker for the bandit stash in Dark Valley\n• Added “equipped” text to the pistol repair window\n• Fixed the scientist corpse with a map being removed at Glubokoye Station\n• Fixed the safe in the Red Forest mine\n• Added emission shelters in Dead City\n• Added the G36: Lukash now gives it instead of the Remington R5\n• Increased compass marker visibility range"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 27.12.2025",
+      "summary": "Added volume controls, fixed weapons and quests, and adjusted damage balance.",
+      "content": "• Fixed missing particles on the flamethrower, Gauss rifle and anomalous Groza\n• Fixed an NPC crash related to the Mosin rifle\n• Fixed localization\n• Fixed the parrots at Bar checkpoints repeating one line until the entry fee is paid\n• Fixed the “Good Ending”\n• Fixed G36 safe mode and its post-update state (to repair it, move the weapon to any available inventory slot)\n• Fixed ammo type switching on the Saiga, DVL, SV-98 and Remington 700\n• Added separate volume sliders for master, interface, weapons, music and other effects\n• Added a phosphor stick near Krol’s journal\n• Added NPC Snickers containing a fragment of Semetsky’s map\n• Added dynamic anomaly spawn restriction zones in Pripyat and Glubokoye Station\n• Added item quantities received and handed over to the dialogue window\n• Adjusted damage: DVL +0.15; FN FAL +0.05; G28 −0.2; MDR +0.1; Remington 700 +0.1; SVD +0.2"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 30.12.2025",
+      "summary": "Added the MTs-255 revolver shotgun and updated animations and models; fixed music and spawning.",
+      "content": "• Radio music volume now follows the music volume slider\n• Fixed infinite mutant respawning\n• Fixed the magician quest: Ghost once again returns the stolen items to the protagonist\n• Fixed missing tessellation on dynamic objects that support it\n• Added zoom memory for variable-magnification scopes\n• Added the MTs-255 revolver shotgun\n• Removed the VZ Scorpion: Caesar’s stash now contains an MTs-255, while NPCs carry an MP5\n• Updated impact grenade animations\n• Updated first-person character leg models"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 03.01.2026",
+      "summary": "Fixed crashes and infinite spawning; updated volumetric lighting and Mosin rifle sounds.",
+      "content": "• Fixed a crash when approaching Sidor’s village at Glubokoye Station\n• Fixed unlimited mob spawning at locations\n• Fixed the RPK-16 magazine ammo count\n• Fixed a crash after calming the Professor in X-10 and corrected his logic\n• Removed spider spawning after talking to the Professor\n• Added a spent cartridge layout in the MTs-255 cylinder\n• Added the missing Mosin rifle sound and updated its sounds\n• Updated volumetric lighting for a better look and lower FPS cost"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 08.01.2026",
+      "summary": "Fixed settings, voice-over, flamethrower and artifact spawning; added English localization.",
+      "content": "• Fixed the settings menu opening when deleting a save with a hotkey\n• Fixed localization\n• Fixed Clear Sky voice-over\n• Fixed the flamethrower refill by Shurup\n• Fixed mutant part spawning in anomalies\n• Adjusted mutant part prices, quest item weights and some rewards\n• Added English localization (a new game is required for a complete replacement)\n• Added Falke sight compatibility with the Vortex\n• Replaced PRB lighting formulas\n• Disabled tessellation on NPC models"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 21.01.2026",
+      "summary": "Fixed crashes, quests and interface; changed manuscript and firewood quests.",
+      "content": "• Fixed volumetric lighting issues\n• Fixed a crash at ChNPP-2\n• Fixed a crash caused by a missing weapon section\n• Fixed noise on vegetation and weapons\n• Fixed picking up quest weapons from NPCs\n• Fixed the radius of some restrictors\n• Fixed the Deacon and scout fight\n• Fixed NPCs carrying pieces of Semetsky’s stash disappearing\n• Fixed NPC respawners\n• Fixed the bleeding formula in the description window\n• Fixed cartridge case positions when firing\n• Fixed angular scope lens geometry and image smoothing in scopes\n• Fixed breathing sounds at some fatigue levels and the sight icon position on weapons\n• Fixed reward item counts, interface element positions and localization\n• Added delayed tutorial display\n• Changed the locations for the fourth and fifth manuscript quests\n• Replaced zombified scientist models\n• Simplified the firewood quest: Voronin’s permission is no longer needed"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 23.01.2026",
+      "summary": "Fixed quest softlocks and the bandit respawner; Petrenko now gives a PL-15 with a suppressor.",
+      "content": "• Fixed some quest softlocks after updating\n• Fixed suppressor positions on weapon icons\n• Fixed the bandit respawner in Bar after its capture\n• Removed the walk with Tolik around the Cordon\n• Petrenko now gives a PL-15 with a suppressor"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 30.01.2026",
+      "summary": "Cleaned up shaders, added respawner delays and moved the symbion recipe.",
+      "content": "• Fixed localization\n• Fixed the broken Svarog icon and description\n• Reformatted and cleaned up shaders\n• Added delays to respawners\n• Removed the symbion recipe\n• Moved the recipe from the Sarcophagus to X-18"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 11.02.2026",
+      "summary": "Fixed Lefty’s movement, music, artifacts and localization; added a new breathing shader.",
+      "content": "• Fixed Lefty’s movement between locations: he now stays at the Warehouses\n• Fixed Leila’s missing music\n• Fixed artifact crafting in the funnel and their removal by the Liquidator\n• Fixed localization\n• Fixed Lua blender encoding\n• Fixed the Harmonica suppressor in trading\n• Restored lighting settings from the beta period\n• Added a breathing shader for suits with Metro Exodus-style helmets"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 16.03.2026",
+      "summary": "Added the Armsel Striker shotgun and new Burer abilities; fixed quests, sound and optical sights.",
+      "content": "• Fixed PDA glare\n• Reduced excessive volumetric lighting noise\n• Fixed the pre-final scene at the crystal\n• Fixed bullet penetration for some materials\n• Fixed red dot offset\n• Fixed shotgun crosshairs\n• Fixed failure of the Varangian circles quest while wearing the bio-radar\n• Fixed option positions in settings\n• Fixed looping sounds in underground locations\n• Fixed missing audio after the ending\n• Added glare and reflections on optical sight lenses\n• Added the Armsel Striker shotgun\n• Burers can now fire captured weapons\n• Removed the Winchester 1300 shotgun"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 29.06.2026",
+      "summary": "Fixed sounds, respawners, fog and markers; added new item features.",
+      "content": "• Fixed servo sounds\n• Fixed respawners: locations now have slightly more wildlife\n• Fixed fog issues\n• Fixed the cleanup system\n• Fixed marker offsets on red dot sights\n• Fixed missing sound after sleeping\n• Fixed the missing arsenal guard in Petrenko’s quest\n• Added pistol repair with a repair kit\n• Added placing items in quick slots through the context menu\n• Adjusted lighting and tone mapping settings"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 03.08.2026",
+      "summary": "Added fullscreen mode, new sights and animations; fixed NPC, mutant and location issues.",
+      "content": "• Added fullscreen mode\n• Added Geiger counter sounds for detectors\n• Added Vortex Razor AMG UH-1 and Wilcox BOSS Xe sights. Find them with Scryaga or in a random stash\n• Added suppressed Groza animations\n• Updated the difficulty module: incoming damage scaling now applies to more than just the player\n• Updated the OP-SKS model\n• Fixed a rare crash related to mutant telekinesis\n• Fixed a rare crash when talking to simulation stalkers\n• Fixed infinite NPC spawning in some respawners\n• Fixed the search area marker on the compass: entering the area now changes the compass color\n• Fixed bone updates on first launch\n• Fixed missing shadows on translucent geometry\n• Fixed missing particle collisions\n• Fixed terrain geometry along the water in Dark Valley\n• Fixed water geometry in Dark Valley\n• Fixed and updated geometry at Glubokoye Station\n• Fixed campfire stalker animations at Glubokoye Station\n• Fixed Glubokoye Station coordinates on the PDA world map\n• Fixed and updated anomalous weapon and radiation visual effects\n• Fixed and updated O-Consciousness NPC models\n• Fixed localization"
+    },
+    {
+      "category": "Update",
+      "title": "Update of 30.08.2026",
+      "summary": "Updated FSR libraries and tooltips; fixed visual effects and other issues.",
+      "content": "• Updated FSR libraries to version 3.1.2\n• Updated tooltips in the settings menu\n• Fixed possible glare when leaving dark interiors for outdoors\n• Fixed water reflection distance in foggy weather"
+    }
+  ]
+}
