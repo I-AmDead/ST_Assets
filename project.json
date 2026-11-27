@@ -1,0 +1,24 @@
+{
+  "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png",
+    "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/2.png",
+    "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/3.png",
+    "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/4.png",
+    "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png"
+  ],
+  "locales": {
+    "en": {
+      "name": "Secret Trails",
+      "description": "A reimagining of the global story mod for Shadow of Chernobyl.\n The story of Strelok before the events of Shadow of Chernobyl.\n After entering the Zone with his brother, known by the nickname Captain, he is separated from him during an emission.\n Rescued by the Forester, Strelok sets out to find his brother and gradually learns more about how he came to be in the Zone."
+    },
+    "ru": {
+      "name": "Secret Trails",
+      "description": "Переработка глобального сюжетного мода на Тень Чернобыля.\n История Стрелка до событий «Тени Чернобыля».\n Попав в Зону вместе с братом по прозвищу Капитан, он оказывается разлучён с ним после выброса.\n Спасённый Лесником, Стрелок отправляется на поиски брата и постепенно узнаёт больше о своём появлении в Зоне."
+    },
+    "uk": {
+      "name": "Secret Trails",
+      "description": "Переосмислення глобального сюжетного моду для «Тіні Чорнобиля».\n Історія Стрілка до подій «Тіні Чорнобиля».\n Потрапивши до Зони разом із братом на прізвисько Капітан, він розлучається з ним після викиду.\n Врятований Лісником, Стрілок вирушає на пошуки брата й поступово дізнається більше про те, як опинився в Зоні."
+    }
+  }
+}
