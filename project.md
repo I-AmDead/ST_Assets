@@ -1,6 +1,8 @@
-![Secret Trails](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png)
+# Secret Trails
 
-[Discord](https://discord.gg/tQNPCEC469) · [YouTube](https://www.youtube.com/@I-amdead) · [GitHub](https://github.com/I-AmDead/Secret-Trails)
+<p align="center"><img src="https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png" alt="Secret Trails"></p>
+
+<p align="center">[Discord](https://discord.gg/tQNPCEC469) · [YouTube](https://www.youtube.com/@I-amdead) · [GitHub](https://github.com/I-AmDead/Secret-Trails)</p>
 
 **Автор проекта:** I am dead  
 **Платформа:** OGSR Engine
