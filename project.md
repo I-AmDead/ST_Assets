@@ -1,32 +1,59 @@
-# Демонстрационная страница модификации
+::: hero
+image=https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png
+title=SECRET TRAILS
+caption=Powered by OGSR Engine
+:::
 
-Эта страница целиком загружается из `project.md`. Она скрывает заголовок, описание, фон и карусель, заданные в JSON каталоге.
+::: notice
+Шапка темы обязательна к прочтению, во избежание глупых вопросов!
+:::
 
-Обычный Markdown поддерживает **жирный текст**, *курсив*, ~~зачёркивание~~ и ссылки: [репозиторий каталога модификаций](https://github.com/I-AmDead/Mods_list).
+::: buttons
+[Discord](https://discord.gg/tQNPCEC469) [YouTube](https://www.youtube.com/@I-amdead) [GitHub](https://github.com/I-AmDead/Secret-Trails)
+:::
 
-p=. Абзац по центру.
+::: metadata
+Автор проекта: I am dead
+Платформа: OGSR Engine
+Последнее обновление: 15 декабря 2025 года
+:::
 
-p>. Абзац по правому краю.
+Secret Trails — дополненная и улучшенная версия оригинального мода. За счёт улучшенного движка удалось повысить качество геймплея, добавить новые возможности, подтянуть графическую составляющую и повысить стабильность проекта!
 
-## Списки
+::: spoiler
+Изменения
 
-- Первый пункт
-- **Важный** пункт
-- Третий пункт
+В проекте улучшены качество геймплея, графическая составляющая и стабильность; добавлены новые возможности.
+:::
 
-## Колонки
+::: spoiler
+Инструкции
 
-| Левая колонка | Правая колонка |
-|---|---|
-| Текст слева | Текст справа |
-| Ещё один пункт | `код` |
+Перед игрой ознакомьтесь с шапкой темы и инструкциями по установке в теме проекта.
+:::
 
-## Изображение
+::: spoiler
+Ссылки на скачивание
 
-![Пример изображения](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/news_default.png)
+Добавьте сюда актуальную ссылку на загрузку модификации.
+:::
 
-> Цитата отображается отдельным блоком.
+::: spoiler
+Скриншоты
 
----
+![Скриншот 1](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png)
 
-Чтобы проверить пример, скопируйте файл в корень GitHub-репозитория нужной модификации и загрузите в ветку `main`.
+![Скриншот 2](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/2.png)
+
+![Скриншот 3](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/3.png)
+
+![Скриншот 4](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/4.png)
+
+![Скриншот 5](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png)
+:::
+
+::: spoiler
+Благодарности
+
+Спасибо всем, кто участвовал в создании и поддержке проекта!
+:::
