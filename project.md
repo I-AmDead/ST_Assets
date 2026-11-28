@@ -1,4 +1,4 @@
-# Secret Trails {.text-center}
+# Secret Trails {style="text-align: center;"}
 
 <p align="center"><img src="https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png" alt="Secret Trails"></p>
 
@@ -11,11 +11,11 @@
 
 Secret Trails — дополненная и улучшенная версия оригинального мода. За счёт улучшенного движка удалось повысить качество геймплея, добавить новые возможности, подтянуть графическую составляющую и повысить стабильность проекта!
 
-## Изменения {.text-center}
+## Изменения {style="text-align: center;"}
 
 В проекте улучшены качество геймплея, графическая составляющая и стабильность; добавлены новые возможности.
 
-## Скриншоты {.text-center}
+## Скриншоты {style="text-align: center;"}
 
 ![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png)
 
@@ -27,6 +27,6 @@ Secret Trails — дополненная и улучшенная версия о
 
 ![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png)
 
-## Благодарности {.text-center}
+## Благодарности {style="text-align: center;"}
 
 Спасибо всем, кто участвовал в создании и поддержке проекта!
