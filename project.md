@@ -1,26 +1,17 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png" alt="Secret Trails">
-</p>
+![Secret Trails](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png)
 
-::: buttons
-[Discord](https://discord.gg/tQNPCEC469) [YouTube](https://www.youtube.com/@I-amdead) [GitHub](https://github.com/I-AmDead/Secret-Trails)
-:::
+[Discord](https://discord.gg/tQNPCEC469) · [YouTube](https://www.youtube.com/@I-amdead) · [GitHub](https://github.com/I-AmDead/Secret-Trails)
 
-::: metadata
-Автор проекта: I am dead
-Платформа: OGSR Engine
-:::
+**Автор проекта:** I am dead  
+**Платформа:** OGSR Engine
 
 Secret Trails — дополненная и улучшенная версия оригинального мода. За счёт улучшенного движка удалось повысить качество геймплея, добавить новые возможности, подтянуть графическую составляющую и повысить стабильность проекта!
 
-::: spoiler
-Изменения
+## Изменения
 
 В проекте улучшены качество геймплея, графическая составляющая и стабильность; добавлены новые возможности.
-:::
 
-::: spoiler
-Скриншоты
+## Скриншоты
 
 ![Скриншот 1](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png)
 
@@ -31,10 +22,7 @@ Secret Trails — дополненная и улучшенная версия о
 ![Скриншот 4](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/4.png)
 
 ![Скриншот 5](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png)
-:::
 
-::: spoiler
-Благодарности
+## Благодарности
 
 Спасибо всем, кто участвовал в создании и поддержке проекта!
-:::
