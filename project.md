@@ -1,6 +1,4 @@
-::: hero
-image=https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png
-:::
+![Secret Trails](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png)
 
 ::: buttons
 [Discord](https://discord.gg/tQNPCEC469) [YouTube](https://www.youtube.com/@I-amdead) [GitHub](https://github.com/I-AmDead/Secret-Trails)
