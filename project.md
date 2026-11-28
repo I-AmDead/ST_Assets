@@ -1,7 +1,5 @@
 ::: hero
 image=https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png
-title=SECRET TRAILS
-caption=Powered by OGSR Engine
 :::
 
 ::: notice
