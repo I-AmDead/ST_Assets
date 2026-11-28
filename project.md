@@ -1,5 +1,5 @@
 ::: hero
-![Title]https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png
+image=https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png
 :::
 
 ::: buttons
