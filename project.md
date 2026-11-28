@@ -2,10 +2,6 @@
 ![Title](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png)
 :::
 
-::: notice
-Шапка темы обязательна к прочтению, во избежание глупых вопросов!
-:::
-
 ::: buttons
 [Discord](https://discord.gg/tQNPCEC469) [YouTube](https://www.youtube.com/@I-amdead) [GitHub](https://github.com/I-AmDead/Secret-Trails)
 :::
