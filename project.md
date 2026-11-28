@@ -17,15 +17,15 @@ Secret Trails — дополненная и улучшенная версия о
 
 ## Скриншоты {.text-center}
 
-![Скриншот 1](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png)
+![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png)
 
-![Скриншот 2](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/2.png)
+![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/2.png)
 
-![Скриншот 3](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/3.png)
+![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/3.png)
 
-![Скриншот 4](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/4.png)
+![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/4.png)
 
-![Скриншот 5](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png)
+![](https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/5.png)
 
 ## Благодарности {.text-center}
 
