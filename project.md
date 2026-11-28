@@ -1,4 +1,6 @@
-![Secret Trails](https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png" alt="Secret Trails">
+</p>
 
 ::: buttons
 [Discord](https://discord.gg/tQNPCEC469) [YouTube](https://www.youtube.com/@I-amdead) [GitHub](https://github.com/I-AmDead/Secret-Trails)
